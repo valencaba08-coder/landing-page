@@ -37,3 +37,10 @@ a {
 .action {
   background-color: #3882F6;
 }
+
+.title {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900;
+}
+
