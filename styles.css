@@ -51,3 +51,24 @@ a {
   font-weight: 300;
   font-style: italic;
 }
+
+/**/
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
