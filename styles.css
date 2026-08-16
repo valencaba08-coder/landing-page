@@ -32,3 +32,8 @@ a {
   text-decoration: none;
   color: #E5E7EB;
 }
+
+.button,
+.action {
+  background-color: #3882F6;
+}
