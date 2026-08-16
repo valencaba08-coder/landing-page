@@ -21,5 +21,14 @@ body {
 }
 
 .secondary {
-  
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #E5E7EB;
 }
